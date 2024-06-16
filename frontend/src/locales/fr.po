@@ -3455,7 +3455,8 @@ msgstr "Ce lien de réinitialisation du mot de passe n'est pas valide ou a expir
 msgid ""
 "This ticket cannot be deleted because it is\n"
 "associated with an order. You can hide it instead."
-msgstr ""
+msgstr "Ce ticket ne peut pas être supprimé car il l'est\n"
+"associé à une commande. Vous pouvez le cacher à la place."
 
 #: src/components/common/TicketsTable/SortableTicket/index.tsx:131
 msgid "This ticket is hidden from public view"
